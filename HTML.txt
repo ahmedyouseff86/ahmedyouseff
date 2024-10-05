@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Yousef CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2E8B57;
+        }
+        ul {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ahmed Yousef Mohamed</h1>
+        <p>Address: RFYA7168, Al Maruj, Yarmouk, Riyadh</p>
+        <p>Mobile & WhatsApp: 0530173144</p>
+        <p>Email: <a href="mailto:ahmedyouseff86@gmail.com">ahmedyouseff86@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ahmed-yousef-597822147" target="_blank">Ahmed Yousef LinkedIn</a></p>
+    </header>
+
+    <section>
+        <h2>Summary</h2>
+        <p>Results-driven sales associate with a passion for delivering exceptional customer experiences and driving revenue growth with excellent communication skills who works effectively in a team.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>2016-2020: Graduated from Faculty of Commerce, English Section, Ain Shams University (Business Department)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <ul>
+            <li>Sales Account Manager at Daftra (6-2024 till present)</li>
+            <li>Sales Executive at Cashin (1-2024 till 6-2024)</li>
+            <li>Sales Associate at Virgin Mega Stores (9-2022 till 9-2023)</li>
+            <li>Sales Representative at Sam Samouy Lifestyle Coaching (1-2022 till 9-2022)</li>
+            <li>Invigilator at the British Council (5-2019 till 4-2024)</li>
+            <!-- Continue with the rest of your work experience -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Communication</li>
+            <li>Presentation</li>
+            <li>Accounting</li>
+            <li>Sales</li>
+            <li>Teamwork</li>
+            <!-- Continue listing your skills -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>Arabic (Mother tongue)</li>
+            <li>English (Advanced)</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Military Status: Ended Military Services in 2021</p>
+    </footer>
+</body>
+</html>
